@@ -3,6 +3,6 @@ Writing Scenario
 TestNG-Assertions-@Test Annotations
 Location xpath, id
 POM
-Selenium-
+Selenium
 Cucumber
 Utility
